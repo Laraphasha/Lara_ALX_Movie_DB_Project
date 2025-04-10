@@ -1,5 +1,10 @@
+import Search from './components/SearchBar'
+
 function App() {
   return (
+    <>
+      <Search />
+    </>
   );
 }
 
