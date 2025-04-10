@@ -26,3 +26,26 @@ This is a Capstone Project for ALX Front End Development programme.
   ```bash
   npm run dev
   ```
+
+## Project Structure
+* Lara_ALX_Movie_DB_Project/
+  - src/
+    - components/
+      - SearchBar.jsx
+      - MovieCard.jsx
+      - MovieList.jsx
+    - pages/
+      - Home.jsx
+      - MovieList.jsx
+    - api/
+      - TheMovieDB.js
+    - App.jsx
+    - index.css
+    - main.jsx
+  - eslint.config.js
+  - index.html
+  - package.json
+  - postcss.config.js
+  - README.md
+  - tailwind.config.js
+  - vite.config.js
