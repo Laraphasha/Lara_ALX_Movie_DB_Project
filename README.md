@@ -15,7 +15,7 @@ This is a Capstone Project for ALX Front End Development programme.
 * __Dependencies Installation:__
   - Install [React Router](https://reactrouter.com/start/declarative/installation) to use for routing in our app:
   ```bash
-  npm i react-router
+  npm i -D react-router-dom@latest
   ```
   - Install [Tailwind CSS](https://v3.tailwindcss.com/docs/guides/vite) for styling.
   ```bash
